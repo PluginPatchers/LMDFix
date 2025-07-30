@@ -1,4 +1,8 @@
-# LET ME DESPAWN
+# LMDFix
+
+Adding onto the optimization that LMD already does, LMDFix also checks if the mob is flagged as "Important." For example, if the mob is marked as persistent with the use of commands, then it will not despawn. LMDFix also fixes the bug where some mobs are falsely being despawned even if they are wearing a nametag.
+--------------------------------------------------
+# LMD
 
 When a mob is given an item and the mob equips or picks it up it becomes persistent in the world and will not despawn naturally. One of the largest contributor to entity lag in minecraft are persistent mobs, and modded makes it worse by adding and spawning more mobs.
 
