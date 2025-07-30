@@ -1,3 +1,6 @@
+# ARCHIVED
+LMD has fixed the issues on their own mod, so this mod is no longer needed.
+
 # LMDFix
 
 Adding onto the optimization that LMD already does, LMDFix also checks if the mob is flagged as "Important." For example, if the mob is marked as persistent with the use of commands, then it will not despawn. LMDFix also fixes the bug where some mobs are falsely being despawned even if they are wearing a nametag.
